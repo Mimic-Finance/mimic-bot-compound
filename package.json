@@ -1,0 +1,14 @@
+{
+  "name": "mimic-bot-compound",
+  "version": "1.0.0",
+  "description": "mimic-finance bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aom Wara",
+  "license": "ISC",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.2"
+  }
+}
